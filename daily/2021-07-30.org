@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       EE49419F-1AF5-446D-8340-BD25C7240DAB
+:END:
+#+title: 2021-07-30
+* today's memo
+:PROPERTIES:
+:ID:       20210730T205001.815487
+:END:
+tody I have installed [[id:9F809220-2445-4C70-AC3A-4B9C8B3B9C87][hackintosh]] on my MSI successfull
