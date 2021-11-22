@@ -1,0 +1,19 @@
+* IgA肾病
+  :PROPERTIES:
+  :CUSTOM_ID: iga肾病
+  :ID:       20211122T213534.551401
+  :END:
+** 病理 #card
+   :PROPERTIES:
+   :CUSTOM_ID: 病理-card
+   :END:
+
+- 系膜区以 lgA 或 lgA 沉积为主的肾小球疾病
+- 新月体肾小球肾炎、局灶节段性肾小球硬化 ^1635394840363
+
+** 实验室检查 #card
+   :PROPERTIES:
+   :CUSTOM_ID: 实验室检查-card
+   :END:
+
+- 镜下血尿或肉眼血尿 ^1635394840368

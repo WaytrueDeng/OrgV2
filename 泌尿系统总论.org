@@ -1,0 +1,18 @@
+* 泌尿系统总论
+  :PROPERTIES:
+  :CUSTOM_ID: 泌尿系统总论
+  :ID:       20211122T213536.074497
+  :END:
+** 总论
+   :PROPERTIES:
+   :CUSTOM_ID: 总论
+   :END:
+** 肾脏疾病的临床表现
+   :PROPERTIES:
+   :CUSTOM_ID: 肾脏疾病的临床表现
+   :END:
+
+1. 血尿
+2. [[蛋白尿]]
+3. 水肿
+4. 高血压

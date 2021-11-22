@@ -1,0 +1,25 @@
+* 限制性心肌病
+  :PROPERTIES:
+  :CUSTOM_ID: 限制性心肌病
+  :ID:       20211122T213535.021800
+  :END:
+** 病因与分类 #card
+   :PROPERTIES:
+   :CUSTOM_ID: 病因与分类-card
+   :END:
+
+- 一半为特发性,一半为病因清楚的特发类型,后者多为淀粉样板 ^1634704330712
+
+** 临床表现 #card
+   :PROPERTIES:
+   :CUSTOM_ID: 临床表现-card
+   :END:
+
+- 表现为右心衰竭的表现 ^1634704330722
+
+** 辅助检查 #card
+   :PROPERTIES:
+   :CUSTOM_ID: 辅助检查-card
+   :END:
+
+- 心包增厚和室间隔抖动征见于缩窄性心包炎。 ^1634704330728

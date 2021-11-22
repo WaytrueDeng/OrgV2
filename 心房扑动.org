@@ -1,0 +1,25 @@
+* 心房扑动
+  :PROPERTIES:
+  :CUSTOM_ID: 心房扑动
+  :ID:       20211122T213535.180901
+  :END:
+** 心电图表现
+   :PROPERTIES:
+   :CUSTOM_ID: 心电图表现
+   :END:
+
+- P 波消失,代之振幅间距相同有规律的锯齿状扑动波,称为 F 波,频率常为
+  250~350 次/分
+- 心室率规则或不规则,房扑波多以 2:1,4:1 下传
+- QRS 波形态正常
+
+** 治疗
+   :PROPERTIES:
+   :CUSTOM_ID: 治疗
+   :END:
+*** 非药物治疗
+    :PROPERTIES:
+    :CUSTOM_ID: 非药物治疗
+    :END:
+
+- 同步直流电复律

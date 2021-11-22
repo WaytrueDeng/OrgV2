@@ -1,0 +1,52 @@
+* 急性心力衰竭
+  :PROPERTIES:
+  :CUSTOM_ID: 急性心力衰竭
+  :ID:       20211122T213535.249497
+  :END:
+** 临床分类
+   :PROPERTIES:
+   :CUSTOM_ID: 临床分类
+   :END:
+*** 急性左心衰
+    :PROPERTIES:
+    :CUSTOM_ID: 急性左心衰
+    :END:
+
+- 最容易的病因是高血压急症
+
+*** 急性右心衰
+    :PROPERTIES:
+    :CUSTOM_ID: 急性右心衰
+    :END:
+
+- 最易考右心室梗死,禁用利尿剂和硝酸酯类药物
+
+*** 
+    :PROPERTIES:
+    :CUSTOM_ID: section
+    :END:
+** 临床表现
+   :PROPERTIES:
+   :CUSTOM_ID: 临床表现
+   :END:
+** 治疗
+   :PROPERTIES:
+   :CUSTOM_ID: 治疗
+   :END:
+*** 药物治疗
+    :PROPERTIES:
+    :CUSTOM_ID: 药物治疗
+    :END:
+
+- 吗啡
+
+  - 病人镇静
+  - 舒张小血管功能而减轻心脏负荷
+  - 禁用于支气管哮喘与急性胰腺炎(oddi 括约肌收缩)
+
+- β 受体阻滞剂禁用于左心衰
+
+*** 
+    :PROPERTIES:
+    :CUSTOM_ID: section-1
+    :END:

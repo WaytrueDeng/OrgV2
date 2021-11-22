@@ -1,0 +1,34 @@
+* 不稳定型心绞痛
+  :PROPERTIES:
+  :CUSTOM_ID: 不稳定型心绞痛
+  :ID:       20211122T213533.541864
+  :END:
+** 诊断要点 #card
+   :PROPERTIES:
+   :CUSTOM_ID: 诊断要点-card
+   :END:
+
+1. 劳力负荷可诱发
+2. 反复发作的心前区疼痛(每次持续*10分钟以上*)
+3. 硝酸甘油不能完全缓解 ^1634568106007
+
+** 诊段 #card
+   :PROPERTIES:
+   :CUSTOM_ID: 诊段-card
+   :END:
+
+- 心绞痛症状、典型的缺血性心电图改变（新发或一过性 ST 段压低 >= 0,1mV
+  ，或 T波 倒置 >= O. 2mV）以及心肌损伤标志物 （ cTnT 、 cTnl 或
+  CK-MB）测定，可以作出 UA/NSTEMI 诊断 ^1634568106016
+
+** 体征
+   :PROPERTIES:
+   :CUSTOM_ID: 体征
+   :END:
+** 治疗
+   :PROPERTIES:
+   :CUSTOM_ID: 治疗
+   :END:
+
+- [[动脉粥样硬化和冠状动脉粥样硬化性心脏病#^1634567759015]]
+- 

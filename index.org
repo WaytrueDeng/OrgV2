@@ -1,0 +1,8 @@
+* index
+  :PROPERTIES:
+  :CUSTOM_ID: index
+  :ID:       20211122T213533.633200
+  :END:
+
+- [[[file:OutPuts/内科学][内科学]]]
+- [[[file:OutPuts/外科学][外科学]]]

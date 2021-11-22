@@ -1,0 +1,34 @@
+* 房性心律失常
+  :PROPERTIES:
+  :CUSTOM_ID: 房性心律失常
+  :ID:       20211122T213535.403843
+  :END:
+** 房性期前收缩
+   :PROPERTIES:
+   :CUSTOM_ID: 房性期前收缩
+   :END:
+*** 心电图特征
+    :PROPERTIES:
+    :CUSTOM_ID: 心电图特征
+    :END:
+
+- P 波提前发生与窦性 P 波不同
+- PR 间期时间>120ms
+- QRS 波呈室上性
+- 多为不完全代偿间歇
+
+*** 治疗
+    :PROPERTIES:
+    :CUSTOM_ID: 治疗
+    :END:
+
+- 不需要治疗
+
+** [[[file:心房扑动]]]
+   :PROPERTIES:
+   :CUSTOM_ID: 心房扑动
+   :END:
+** [[[file:心房颤动]]]
+   :PROPERTIES:
+   :CUSTOM_ID: 心房颤动
+   :END:

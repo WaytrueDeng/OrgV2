@@ -1,0 +1,25 @@
+* 室性期前收缩
+  :PROPERTIES:
+  :CUSTOM_ID: 室性期前收缩
+  :ID:       20211122T213533.750352
+  :END:
+** 心电图特征 #flashcard
+   :PROPERTIES:
+   :CUSTOM_ID: 心电图特征-flashcard
+   :END:
+
+- 提前发生的QRS波,宽大畸形大于0.12s
+- ST-T改变与QRS波相反
+- 完全代偿间歇\\
+
+** 治疗 #flashcard
+   :PROPERTIES:
+   :CUSTOM_ID: 治疗-flashcard
+   :END:
+*** 无器质性心脏病
+    :PROPERTIES:
+    :CUSTOM_ID: 无器质性心脏病
+    :END:
+
+- 不用治疗 ### 有器质性心脏病
+- 原则上不用治疗

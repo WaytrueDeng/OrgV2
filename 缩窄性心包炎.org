@@ -1,0 +1,27 @@
+* 缩窄性心包炎
+  :PROPERTIES:
+  :CUSTOM_ID: 缩窄性心包炎
+  :ID:       20211122T213534.318415
+  :END:
+** 病因 #card
+   :PROPERTIES:
+   :CUSTOM_ID: 病因-card
+   :END:
+
+- 我国缩窄性心包炎的病因以结核性为最常见， ^1634721538276
+
+** 临床表现 #card
+   :PROPERTIES:
+   :CUSTOM_ID: 临床表现-card
+   :END:
+
+- 奇脉不常见
+- 通常无杂音
+- 可有 [[Kussmaul征]] ^1634721538286
+
+** 治疗 #card
+   :PROPERTIES:
+   :CUSTOM_ID: 治疗-card
+   :END:
+
+- 唯一有效的方法即心包切除术 ^1634721538294

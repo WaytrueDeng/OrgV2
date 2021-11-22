@@ -1,5 +1,0 @@
-:PROPERTIES:
-:ID:       9F809220-2445-4C70-AC3A-4B9C8B3B9C87
-:END:
-#+title: hackintosh
-Hacking tosh now finnally work on my PC https://github.com/WaytrueDeng/MSI-GS63VR-Hackintosh

@@ -1,0 +1,26 @@
+* 心脏骤停
+  :PROPERTIES:
+  :CUSTOM_ID: 心脏骤停
+  :ID:       20211122T213535.665321
+  :END:
+** 病因 #card
+   :PROPERTIES:
+   :CUSTOM_ID: 病因-card
+   :END:
+
+- 冠心病
+- 梗阻性肥厚型心肌病、致心律失常型右心室心肌病
+- 长 QT 间期综合征,Brugada 综合征 ^1634800117636
+
+** 心脏骤停的处理 #card
+   :PROPERTIES:
+   :CUSTOM_ID: 心脏骤停的处理-card
+   :END:
+*** 初级心肺复苏
+    :PROPERTIES:
+    :CUSTOM_ID: 初级心肺复苏
+    :END:
+
+- 顺序CAB ### 高级心肺复苏
+- 药物治疗:肾上腺素是 CPR 的首选药物,其常规用法是 1mg静脉推注，
+  ^1634800117649

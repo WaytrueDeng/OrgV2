@@ -1,0 +1,32 @@
+* 慢性肾损伤
+  :PROPERTIES:
+  :CUSTOM_ID: 慢性肾损伤
+  :ID:       20211122T213534.615587
+  :END:
+** 病因 #card
+   :PROPERTIES:
+   :CUSTOM_ID: 病因-card
+   :END:
+
+- 诊断与分期最主要的依据是血肌酐值
+
+** 临床表现 #card
+   :PROPERTIES:
+   :CUSTOM_ID: 临床表现-card
+   :END:
+
+- 骨骼病变
+
+  - 纤维囊性骨炎
+  - 骨软化症
+  - 骨再生不良
+
+** 治疗 #card
+   :PROPERTIES:
+   :CUSTOM_ID: 治疗-card
+   :END:
+
+- 高血压的治疗
+
+  - 一般非透析病人应控制血压 130/80mmHg 以下，维持透析病人血压不超过
+    140/90mmHg。

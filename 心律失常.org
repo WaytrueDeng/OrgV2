@@ -1,0 +1,81 @@
+* 心律失常
+  :PROPERTIES:
+  :CUSTOM_ID: 心律失常
+  :ID:       20211122T213535.429945
+  :END:
+
+- [[file:Attachments/2021-10-18-12-29-17.png]]
+- [[[#窦性心律失常][窦性心律失常]]]
+- [[房性心律失常]]
+- [[房室交界区性心律失常]]
+- [[室性心律失常]]
+- [[心脏传导阻滞]]
+- [[抗心律失常药物的合理应用]]
+- [[心脏电复律]]
+- [[导管射频消融]] ## 病因
+
+*** 先天遗传性
+    :PROPERTIES:
+    :CUSTOM_ID: 先天遗传性
+    :END:
+*** 器质性
+    :PROPERTIES:
+    :CUSTOM_ID: 器质性
+    :END:
+** 分类
+   :PROPERTIES:
+   :CUSTOM_ID: 分类
+   :END:
+*** 冲动形成异常
+    :PROPERTIES:
+    :CUSTOM_ID: 冲动形成异常
+    :END:
+**** 窦性心律失常
+     :PROPERTIES:
+     :CUSTOM_ID: 窦性心律失常
+     :END:
+
+- 窦性心动过速
+- 窦性心动过缓
+- 窦性心律失常
+- 窦性停搏
+
+**** 异位心律
+     :PROPERTIES:
+     :CUSTOM_ID: 异位心律
+     :END:
+
+- 被动性异位心律
+
+  - 逸搏与逸搏心律(窦房结频率降低)
+
+- 主动性异位心律
+
+  - 期前收缩
+  - 阵发性心动过速与非阵发性心动过速
+  - 心房扑动,心房颤动
+  - 心室扑动,心室颤动
+
+*** 冲动传导异常
+    :PROPERTIES:
+    :CUSTOM_ID: 冲动传导异常
+    :END:
+** 发生机制
+   :PROPERTIES:
+   :CUSTOM_ID: 发生机制
+   :END:
+*** 冲动形成异常
+    :PROPERTIES:
+    :CUSTOM_ID: 冲动形成异常-1
+    :END:
+*** 冲动传导异常
+    :PROPERTIES:
+    :CUSTOM_ID: 冲动传导异常-1
+    :END:
+** 诊断
+   :PROPERTIES:
+   :CUSTOM_ID: 诊断
+   :END:
+
+- 首选心电图
+- 阵发性选动态心电图

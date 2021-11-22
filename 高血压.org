@@ -1,0 +1,11 @@
+* 高血压
+  :PROPERTIES:
+  :CUSTOM_ID: 高血压
+  :ID:       20211122T213536.354722
+  :END:
+** 血压水平分类和定义 #card
+   :PROPERTIES:
+   :CUSTOM_ID: 血压水平分类和定义-card
+   :END:
+[[Attachments/Pasted image 20211019143425.png]] 2. [[原发性高血压]] 1.
+[[良性高血压]] 2. 恶性/急进性高血压 [[继发性高血压]]

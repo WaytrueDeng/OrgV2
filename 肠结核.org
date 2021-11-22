@@ -1,0 +1,42 @@
+* 肠结核
+  :PROPERTIES:
+  :CUSTOM_ID: 肠结核
+  :ID:       20211122T213535.073663
+  :END:
+** 病因 #card
+   :PROPERTIES:
+   :CUSTOM_ID: 病因-card
+   :END:
+
+- 多因患开放性肺结核或喉结核而吞下含菌痰液，或常与开放性肺结核病人共餐而忽视餐具消毒等而被感染。
+  ^1635235915426
+
+** 全身症状和肠外结核表现 #card
+   :PROPERTIES:
+   :CUSTOM_ID: 全身症状和肠外结核表现-card
+   :END:
+
+- 长期不规则低热盗汗 ^1635235915438
+
+** 检查 #card
+   :PROPERTIES:
+   :CUSTOM_ID: 检查-card
+   :END:
+
+- 结肠镜
+
+  - 回盲部环型或横型溃疡
+
+- [[X线钡餐]]激惹征 ^1635235915444
+
+** 诊断 #card
+   :PROPERTIES:
+   :CUSTOM_ID: 诊断-card
+   :END:
+
+- 低热盗汗+腹痛+腹泻或便秘+结肠镜显示横行或环行溃疡 ^1635235915450
+
+** 治疗
+   :PROPERTIES:
+   :CUSTOM_ID: 治疗
+   :END:

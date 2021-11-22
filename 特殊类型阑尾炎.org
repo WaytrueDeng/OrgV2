@@ -1,0 +1,20 @@
+* 特殊类型阑尾炎
+  :PROPERTIES:
+  :CUSTOM_ID: 特殊类型阑尾炎
+  :ID:       20211122T213534.602525
+  :END:
+** 特殊类型急性阑尾炎与慢性阑尾炎的鉴别 #flashcard
+   :PROPERTIES:
+   :CUSTOM_ID: 特殊类型急性阑尾炎与慢性阑尾炎的鉴别-flashcard
+   :END:
+
+1. [[file:Attachments/Pasted%20image%2020211121221316.png]]
+
+** 慢性阑尾炎的临床特点 #flashcard
+   :PROPERTIES:
+   :CUSTOM_ID: 慢性阑尾炎的临床特点-flashcard
+   :END:
+
+1. 多有急性阑尾炎病史
+2. 阑尾部位的固定性局限性压痛
+3. 钡剂灌肠见阑尾变形,形态扭曲,边缘毛糙,分节状改变,充盈缺损,阑尾腔不规则,72小时后仍有钡剂残留,即可诊断为慢性阑尾炎.

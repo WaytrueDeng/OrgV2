@@ -1,0 +1,36 @@
+* 房室结折返性心动过速
+  :PROPERTIES:
+  :CUSTOM_ID: 房室结折返性心动过速
+  :ID:       20211122T213536.221398
+  :END:
+[]](Attachments/2021-10-18-14-04-30.png)
+
+** 治疗
+   :PROPERTIES:
+   :CUSTOM_ID: 治疗
+   :END:
+*** 非药物治疗
+    :PROPERTIES:
+    :CUSTOM_ID: 非药物治疗
+    :END:
+
+- 先尝试刺激迷走神经
+
+  - 颈动脉窦按摩
+  - valsalva 动作
+  - 咽刺激恶心
+  - 面部浸没于冰水中
+
+*** 药物治疗
+    :PROPERTIES:
+    :CUSTOM_ID: 药物治疗
+    :END:
+
+- 首选腺苷->无效改用维拉帕米(异博定)->低血压选用去氧肾上腺素->都无用选用直流电复律
+
+*** 预防复发
+    :PROPERTIES:
+    :CUSTOM_ID: 预防复发
+    :END:
+
+- 首选导管消融

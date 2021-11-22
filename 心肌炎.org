@@ -1,0 +1,41 @@
+* 心肌炎
+  :PROPERTIES:
+  :CUSTOM_ID: 心肌炎
+  :ID:       20211122T213534.995249
+  :END:
+** 病因 #card
+   :PROPERTIES:
+   :CUSTOM_ID: 病因-card
+   :END:
+
+- 柯萨奇 B 组病毒是最为常见的致病原因 ^1634705159066
+
+** 临床表现 #card
+   :PROPERTIES:
+   :CUSTOM_ID: 临床表现-card
+   :END:
+*** 症状
+    :PROPERTIES:
+    :CUSTOM_ID: 症状
+    :END:
+
+- 病毒感染前驱症状 ，如发热、全身倦怠感
+- 心悸、胸痛、呼吸困难、水肿， 甚至晕厥、 ### 体征
+- 心律失常
+- 奔马律(心肌损害) ^1634705159075
+
+** 检查 #card
+   :PROPERTIES:
+   :CUSTOM_ID: 检查-card
+   :END:
+
+- 有心肌肌酸激酶（ CK-MB ）及肌钙蛋白（ T 或 I) 增高
+- 可出病理性Q波 ^1634705159085
+
+** 诊断 #card
+   :PROPERTIES:
+   :CUSTOM_ID: 诊断-card
+   :END:
+
+- 呼吸道感染(发热咽痛)+心悸胸痛晕厥+心律失常,出现奔马律+肌钙蛋白升高->病毒性心肌炎
+  ^1634705159091

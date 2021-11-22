@@ -1,0 +1,19 @@
+* 小肠疾病
+  :PROPERTIES:
+  :CUSTOM_ID: 小肠疾病
+  :ID:       20211122T213535.967280
+  :END:
+** 肠炎性疾病
+   :PROPERTIES:
+   :CUSTOM_ID: 肠炎性疾病
+   :END:
+
+- [[Crohn病]]
+- [[急性出血性肠炎]]
+
+** 肠梗阻
+   :PROPERTIES:
+   :CUSTOM_ID: 肠梗阻
+   :END:
+
+- [[[#肠梗阻][肠梗阻]]]
