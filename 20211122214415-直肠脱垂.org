@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       20211122T214415.613113
+:END:
+#+title: 直肠脱垂
+* 直肠脱垂
+:PROPERTIES:
+:ANKI_DECK: 直肠脱垂
+:ANKI_NOTE_TYPE: Basic
+:END:
+** Front
+直肠脱垂与腹外疝
+** Back
